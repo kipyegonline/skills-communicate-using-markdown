@@ -12,3 +12,9 @@ function allInAfrica(){
 allInAfrica()
 
 ```
+
+- [x] Open github account
+- [x] Create repository
+- [ ] Push my portfolio code
+- [ ] Activate Github pages
+- [ ] Learn Github actions
